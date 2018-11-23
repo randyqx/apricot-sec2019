@@ -16,11 +16,11 @@ Session 4 |15:30 - 17:00
 
  Instructor | Name | Affiliation | Country
 :-----------|:--------------------|:-------------|:--------------
-**bhumika** | Bhumika Sapkota | [Classic Tech Pvt Ltd (https://www.classic.com.np/)] | Nepal 
-**cristel** | Cristel Pelsser | [Uni Strasbourg (https://unistra.fr)] | France
-**keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp)] | United States
-**patrick** | Patrick Okui | [Network Startup Resource Center (https://nsrc.org)] | Uganda
-**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp)] | Japan
+**bhumika** | Bhumika Sapkota | [Classic Tech Pvt Ltd](https://www.classic.com.np/) | Nepal 
+**cristel** | Cristel Pelsser | [Uni Strasbourg](https://unistra.fr) | France
+**keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp) | United States
+**patrick** | Patrick Okui | [Network Startup Resource Center](https://nsrc.org) | Uganda
+**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 
 ## Tools
 
