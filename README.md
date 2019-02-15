@@ -18,9 +18,9 @@ Session 4 |15:30 - 17:00
 :-----------|:--------------------|:-------------|:--------------
 **bhumika** | Bhumika Sapkota | [Classic Tech Pvt Ltd](https://www.classic.com.np/) | Nepal 
 **cristel** | Cristel Pelsser | [Uni Strasbourg](https://unistra.fr) | France
-**keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp) | United States
+**keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 **patrick** | Patrick Okui | [Network Startup Resource Center](https://nsrc.org) | Uganda
-**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
+**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | United States
 
 ## Tools
 
@@ -55,7 +55,7 @@ Session 0     | Intro                   | randy                | [1-0-1 Intro](1
 |             | - agenda                |                      |
 |             | - materials and resources |                    |
 |             | - facilities and wireless |                    |
-Session 1     | Assets & Threat Models  | randy              | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
+Session 1     | Assets & Threat Models  | randy or cristel?             | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
 |             | - what assets are we protecting? |             |
 |             | - from what kinds of attackers? |              |
 |             | .. kiddies              |                      |
@@ -85,8 +85,8 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 Session 1     | Cryptography Applications |                    |
 |             | - ssh                   | randy                | [2-1-1 SSH](2-1-1.ssh.pdf)
 |             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)
-Session 2     | Wireshark               | maz                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
-|             | - wireshark lab         | maz & alsiha         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
+Session 2     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
+|             | - wireshark lab         | cristel         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
 Session 3     | Cryptography Applications | maz                |
 |             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
 Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
@@ -107,7 +107,7 @@ Session 4     | nmap                    | maz                  | [3-4-1 scanning
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | IDS                      |                     | 
-|             | - IDS pragmatics - snort | maz                 | [4-1-1.ids](4-1-1.ids.pdf)
+|             | - IDS pragmatics - snort | cristel                 | [4-1-1.ids](4-1-1.ids.pdf)
 Session 2     | Protecting Hosts from Net | maz                |
 |             | - clients                 |                    | [4-2-1 Hosts](4-2-1.client.pdf)
 Session 3     | Communities and cooperation| maz               | [4-3-1 cooperation](4-3-1.cooperation.pdf)
