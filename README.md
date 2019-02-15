@@ -55,7 +55,7 @@ Session 0     | Intro                   | randy                | [1-0-1 Intro](1
 |             | - agenda                |                      |
 |             | - materials and resources |                    |
 |             | - facilities and wireless |                    |
-Session 1     | Assets & Threat Models  | randy or cristel?             | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
+Session 1     | Assets & Threat Models  | randy (or cristel?)             | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
 |             | - what assets are we protecting? |             |
 |             | - from what kinds of attackers? |              |
 |             | .. kiddies              |                      |
