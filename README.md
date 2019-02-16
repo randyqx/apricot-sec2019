@@ -107,7 +107,7 @@ Session 4     | nmap                    | maz                  | [3-4-1 scanning
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | IDS                      |                     | 
-|             | - IDS pragmatics - snort | cristel                 | [4-1-1.ids](4-1-1.ids.pdf)
+|             | - IDS pragmatics - snort | cristel                 | [4-1-1.ids](4-1-1.ids.pdf)<br />[4-1-1.ids Hands-on](4-1-1.ids-2.pdf)
 Session 2     | Protecting Hosts from Net | maz                |
 |             | - clients                 |                    | [4-2-1 Hosts](4-2-1.client.pdf)
 Session 3     | Communities and cooperation| maz               | [4-3-1 cooperation](4-3-1.cooperation.pdf)
