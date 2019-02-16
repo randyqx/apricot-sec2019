@@ -84,7 +84,7 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 |             |                         |                      |
 Session 1     | Cryptography Applications |                    |
 |             | - ssh                   | randy                | [2-1-1 SSH](2-1-1.ssh.pdf)
-|             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)
+|             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab Hands-on](2-1-2.ssh-lab-2.pdf)
 Session 2     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
 |             | - wireshark lab         | cristel         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
 Session 3     | Cryptography Applications | maz                |
