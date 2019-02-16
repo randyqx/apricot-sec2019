@@ -84,7 +84,7 @@ Session 3-4   | Cryptography Applications / PGP | maz          |
 |             |                         |                      |
 Session 1     | Cryptography Applications |                    |
 |             | - ssh                   | randy                | [2-1-1 SSH](2-1-1.ssh.pdf)
-|             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab Hands-on](2-1-2.ssh-lab-2.pdf)
+|             | - ssh lab           | alisha and maz            | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)
 Session 2     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
 |             | - wireshark lab         | cristel         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
 Session 3     | Cryptography Applications | maz                |
@@ -99,15 +99,15 @@ Session 2     | anomaly and firewalls   | maz                  |
 |             | - anomaly      		|                      | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - fierwalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 3     | DNS & DNS Security      | alisha               |
-|             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)
-|             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)
-Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Hands-on](3-4-1.scanning-2.pdf)
+|             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)<br/>[3-3-1 DNS Lab](3-3-1.dns-lab.pdf)<br/>[3-3-1 WWW Lab](3-3-1.www-lab.pdf)
+|             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)<br/>[3-3-2 DNS Security Lab](3-3-2.dns-security-lab.pdf)
+Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
 Session 1     | IDS                      |                     | 
-|             | - IDS pragmatics - snort | cristel                 | [4-1-1.ids](4-1-1.ids.pdf)<br />[4-1-1.ids Hands-on](4-1-1.ids-2.pdf)
+|             | - IDS pragmatics - snort | cristel                 | [4-1-1.ids](4-1-1.ids.pdf)<br />[4-1-1.ids Hands-on](4-1-1.ids-lab.pdf)
 Session 2     | Protecting Hosts from Net | maz                |
 |             | - clients                 |                    | [4-2-1 Hosts](4-2-1.client.pdf)
 Session 3     | Communities and cooperation| maz               | [4-3-1 cooperation](4-3-1.cooperation.pdf)
