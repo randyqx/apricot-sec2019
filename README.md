@@ -101,7 +101,7 @@ Session 2     | anomaly and firewalls   | maz                  |
 Session 3     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)
 |             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)
-Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning](3-4-1.scanning-2.pdf)
+Session 4     | nmap                    | maz                  | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Hands-on](3-4-1.scanning-2.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
