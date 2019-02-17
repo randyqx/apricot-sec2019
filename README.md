@@ -21,7 +21,7 @@ Session 4 |15:30 - 18:00
 **keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 **patrick** | Patrick Okui | [Network Startup Resource Center](https://nsrc.org) | Uganda
 **randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
-            |             |  [Arrcus ](http://arrcus.com) | United States
+|            |             |  [Arrcus ](http://arrcus.com) | United States
 
 ## Tools
 
