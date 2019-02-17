@@ -89,9 +89,9 @@ Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN 
 |             |                         |                      |
 **Day 3**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | Network Infrastructure  | maz                  | [3-1-1 securing network](3-1-1.securing-network.pdf)
-Session 2     | anomaly and firewalls   | maz                  |
-|             | - anomaly      		|                      | [3-2-1 anomaly](3-2-1.anomaly.pdf)
+Session 1     | Network Infrastructure  | bhumika                 | [3-1-1 securing network](3-1-1.securing-network.pdf)
+Session 2     | anomaly and firewalls   |                  |
+|             | - anomaly      		|  bhumika                    | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - fierwalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 3     | DNS & DNS Security      | alisha               |
 |             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)<br/>[3-3-1 DNS Lab](3-3-1.dns-lab.pdf)<br/>[3-3-1 WWW Lab](3-3-1.www-lab.pdf)
