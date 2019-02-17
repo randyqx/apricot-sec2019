@@ -10,7 +10,7 @@ Session 2 |11:00 - 12:30
 Lunch     |12:30 - 13:30
 Session 3 |13:30 - 15:00
 Tea       |15:00 - 15:30
-Session 4 |15:30 - 17:00
+Session 4 |15:30 - 18:00
 
 ## Instructors
 
@@ -24,16 +24,11 @@ Session 4 |15:30 - 17:00
 
 ## Tools
 
-If you run a datacenter or a significant office LAN, you should look
-seriously at running a few [Canaries](https://canary.tools/); and a
-[Guide for Deploying
-Canaries](http://blog.thinkst.com/2017/04/a-guide-to-birding-aka-tips-for.html).
-
 [pfSense](https://www.pfsense.org/), a free Firewall, VPN, ... solution.
 
 ## Movies!
 
-Some time during the week, please watch Haroon Meer's excellent keynote,
+Some time during the week, watch Haroon Meer's excellent keynote,
 [Learning the wrong lessons from
 Offense](//[http://t2.fi/2017/02/05/haroon-meer-keynote-2016/), from the
 t2’16 Infosec Conference in Helsinki.
@@ -45,17 +40,17 @@ t2’16 Infosec Conference in Helsinki.
 ## Agenda
 
 Day/Session | Topic | Instructor | Material
-:----------------|:---------------------|:-------------------|:-------------------------
+:-------------|:------------------------|:---------------------|:-------------------------
 |             |                         |                      |
 |             |                         |                      |
-**Day 1**  |**Topic**             |**Instructor**           |**Materials**
+**Day 1**     |**Topic**             	|**Instructor**        |**Materials**
 |             |                         |                      |
 Session 0     | Intro                   | randy                | [1-0-1 Intro](1-0-1.intro.pdf)
 |             | - admin                 |                      |
 |             | - agenda                |                      |
 |             | - materials and resources |                    |
 |             | - facilities and wireless |                    |
-Session 1     | Assets & Threat Models  | randy (or cristel?)             | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
+Session 1     | Assets & Threat Models  | randy (or cristel?)  | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
 |             | - what assets are we protecting? |             |
 |             | - from what kinds of attackers? |              |
 |             | .. kiddies              |                      |
@@ -72,11 +67,11 @@ Session 2     | Cryptography            | randy                | [1-2-1 Crypto O
 |             | - digital signatures    |                      |
 |             | - hash functions        |                      |
 |             | - certificates & trust anchors |               |
-Session 3-4   | Cryptography Applications / PGP | maz          |
-|             | - checksum              | maz                  | [1-3-1 checksum](1-3-1.checksum.pdf)
+Session 3-4   | Cryptography Applications / PGP | patrick      |
+|             | - checksum              | patrick              | [1-3-1 checksum](1-3-1.checksum.pdf)
 |             |                         |                      | [1-3-1 hello-unix.dat](hello-unix.dat)
 |             |                         |                      | [1-3-1 hello-win.dat](hello-win.dat)
-|             | - PGP Lab               | maz & alisha         | [1-3-2 PGP](1-3-2.pgp.pdf)
+|             | - PGP Lab               | patrick              | [1-3-2 PGP](1-3-2.pgp.pdf)
 |             |                         |                      | [1-3-2 email-header](1-3-2.email-headers.pdf)
 |             |                         |                      | [1-3-2 mailvelope](1-3-2.mailvelope.pdf)
 |             |                         |                      |
