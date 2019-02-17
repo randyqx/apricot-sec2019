@@ -20,7 +20,8 @@ Session 4 |15:30 - 18:00
 **cristel** | Cristel Pelsser | [Uni Strasbourg](https://unistra.fr) | France
 **keiichi** | Keiichi Shima | [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
 **patrick** | Patrick Okui | [Network Startup Resource Center](https://nsrc.org) | Uganda
-**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | United States
+**randy**   | Randy Bush  |  [Internet Initiative Japan](http://www.iij.ad.jp) | Japan
+|            |             |  [Arrcus ](http://arrcus.com) | United States
 
 ## Tools
 
@@ -50,7 +51,7 @@ Session 0     | Intro                   | randy                | [1-0-1 Intro](1
 |             | - agenda                |                      |
 |             | - materials and resources |                    |
 |             | - facilities and wireless |                    |
-Session 1     | Assets & Threat Models  | randy (or cristel?)  | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
+Session 1     | Assets & Threat Models  | cristel  	       | [1-1-1 Assets, Threats, Pragmatics](1-1-1.AssetsThreats.pdf)
 |             | - what assets are we protecting? |             |
 |             | - from what kinds of attackers? |              |
 |             | .. kiddies              |                      |
