@@ -114,7 +114,7 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
 |             | scp and sftp             | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)
 |             | DNS Rate Limiting     | randy                | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)
-workshop setup|                         | keiichi                   | [workshop setup](workshop-setup.pdf)
+workshop setup|                         | keiichi                   | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
