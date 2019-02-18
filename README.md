@@ -68,7 +68,7 @@ Session 2     | Cryptography            | randy                | [1-2-1 Crypto O
 |             | - digital signatures    |                      |
 |             | - hash functions        |                      |
 |             | - certificates & trust anchors |               |
-Session 3-4   | Cryptography Applications / PGP | patrick      |
+Session 3   | Cryptography Applications / PGP | patrick      |
 |             | - checksum              | patrick              | [1-3-1 checksum](1-3-1.checksum.pdf)
 |             |                         |                      | [1-3-1 hello-unix.dat](hello-unix.dat)
 |             |                         |                      | [1-3-1 hello-win.dat](hello-win.dat)
@@ -76,15 +76,16 @@ Session 3-4   | Cryptography Applications / PGP | patrick      |
 |             |                         |                      | [1-3-2 email-header](1-3-2.email-headers.pdf)
 |             |                         |                      | [1-3-2 mailvelope](1-3-2.mailvelope.pdf)
 |             |                         |                      |
+Session 4     | Cryptography Applications |                    |
+|             | - ssh                   | cristel               | [2-1-1 SSH](2-1-1.ssh.pdf)
+|             | - ssh lab               | keiichi              | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)
 **Day 2**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
-Session 1     | Cryptography Applications |                    |
-|             | - ssh                   | randy                | [2-1-1 SSH](2-1-1.ssh.pdf)
-|             | - ssh lab               | keiichi              | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)
-Session 2     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.packetdump.pdf)
-|             | - wireshark lab         | cristel         | [2-2-1 wireshark lab](2-2-1.packetdump-data.zip)
-Session 3     | Cryptography Applications | maz                |
+Session 1     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.Wireshark.pdf)
+|             | - wireshark lab         | cristel         | [2-2-2 wireshark lab](2-2-2.WiresharkExerciseData.zip)
+Session 2     | Cryptography Applications | patrick                |
 |             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
+Session 3 | PGP signing party     | patrick |
 Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
 |             |                         |                      |
 |             |                         |                      |
@@ -113,7 +114,7 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
 |             | scp and sftp             | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)
 |             | DNS Rate Limiting     | randy                | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)
-workshop setup|                         |maz                   | [workshop setup](workshop-setup.pdf)
+workshop setup|                         | keiichi                   | [workshop setup](workshop-setup.pdf)
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
