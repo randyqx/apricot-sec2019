@@ -83,7 +83,7 @@ Session 1     | Cryptography Applications |                    |
 |             | - ssh lab               | keiichi              | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)
 Session 2     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.Wireshark.pdf)
 |             | - wireshark lab         | cristel         | [2-2-2 wireshark lab](2-2-2.WiresharkExerciseData.zip)
-Session 3     | Cryptography Applications | maz                |
+Session 3     | Cryptography Applications | patrick                |
 |             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
 Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
 |             |                         |                      |
@@ -113,7 +113,7 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
 |             | scp and sftp             | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)
 |             | DNS Rate Limiting     | randy                | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)
-workshop setup|                         |maz                   | [workshop setup](workshop-setup.pdf)
+workshop setup|                         | keiichi                   | [workshop setup](workshop-setup.pdf)
 |             |                         |                      |
 **Day 5**  |**Topic**             |**Instructor**           |**Materials**
 |             |                         |                      |
