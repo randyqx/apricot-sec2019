@@ -95,7 +95,7 @@ Session 3     | anomaly and firewalls   |                  |
 |             | - anomaly      		|  bhumika                    | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - firewalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 4     | Cryptography Applications | patrick                |
-|             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
+              | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
               | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
