@@ -79,7 +79,7 @@ Session 3   | Cryptography Applications / PGP | patrick      |
 Session 4     | Cryptography Applications |                    |
 |             | - ssh                   | cristel               | [2-1-1 SSH](2-1-1.ssh.pdf)
 |             | - ssh lab               | keiichi              | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)
-**Day 2**  |**Topic**             |**Instructor**           |**Materials**
+|**Day 2**    |**Topic**                |**Instructor**        |**Materials**
 |             |                         |                      |
 Session 1     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.Wireshark.pdf)
 |             | - wireshark lab         | cristel         | [2-2-2 wireshark lab](2-2-2.WiresharkExerciseData.zip)
@@ -88,11 +88,11 @@ Session 2     | DNS & DNS Security      |            |
 |             | - DNS Security          |  patrick<br/>keiichi                    | [3-3-2 DNS Security](3-3-2.dns-security.pdf)<br/>[3-3-2 DNS Security Lab](3-3-2.dns-security-lab.pdf)
 Session 3-4 | PGP signing party     | patrick | [2-3-1 PGP Key signing party lab](2-3-1.lab-pgp-party.pdf)
 |             |                         |                      |
-**Day 3**  |**Topic**             |**Instructor**           |**Materials**
-Session 1     | Network Infrastructure  | bhumika                 | [3-1-1 securing network](3-1-1.securing-network.pdf)
+**Day 3**     |**Topic**                |**Instructor**        |**Materials**
+Session 1     | Network Infrastructure  | bhumika              | [3-1-1 securing network](3-1-1.securing-network.pdf)
 Session 2     | nmap                    | keiichi              | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)
-Session 3     | anomaly and firewalls   |                  |
-|             | - anomaly      		|  bhumika                    | [3-2-1 anomaly](3-2-1.anomaly.pdf)
+Session 3     | anomaly and firewalls   |                      |
+              | - anomaly          		|  bhumika             | [3-2-1 anomaly](3-2-1.anomaly.pdf)
 |             | - firewalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
 Session 4     | Cryptography Applications | patrick                |
               | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
