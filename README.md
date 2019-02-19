@@ -89,7 +89,7 @@ t2’16 Infosec Conference in Helsinki.
 | Session 3 & 4 | PGP signing party                                   | patrick             | [2-3-1 PGP Key signing party lab](2-3-1.lab-pgp-party.pdf)                                               |
 |               |                                                     |                     |                                                                                                          |
 | **Day 3**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
-| Session 1     | Network Infrastructure                              | bhumika             | [3-1-1 securing network](3-1-1.securing-network.pdf)                                                     |
+| Session 1     | Network Infrastructure                              | bhumika             | [3-1-1 securing network](Securing infrastructure Network.pdf)                                                     |
 | Session 2     | nmap                                                | keiichi             | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)                   |
 | Session 3     | anomaly and firewalls                               |                     |                                                                                                          |
 |               | - anomaly                                           | bhumika             | [3-2-1 anomaly](3-2-1.anomaly.pdf)                                                                       |
