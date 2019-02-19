@@ -83,10 +83,11 @@ Session 4     | Cryptography Applications |                    |
 |             |                         |                      |
 Session 1     | Wireshark               | cristel                  | [2-2-1 wireshark](2-2-1.Wireshark.pdf)
 |             | - wireshark lab         | cristel         | [2-2-2 wireshark lab](2-2-2.WiresharkExerciseData.zip)
-Session 2     | Cryptography Applications | patrick                |
-|             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
+Session 2     | DNS & DNS Security      |            |
+|             | - DNS                   |   cristel<br/>keiichi                   | [3-3-1 DNS](3-3-1.dns.pdf)<br/>[3-3-1 DNS Lab](3-3-1.dns-lab.pdf)<br/>[3-3-1 WWW Lab](3-3-1.www-lab.pdf)
+|             | - DNS Security          |  patrick<br/>keiichi                    | [3-3-2 DNS Security](3-3-2.dns-security.pdf)<br/>[3-3-2 DNS Security Lab](3-3-2.dns-security-lab.pdf)
 Session 3 | PGP signing party     | patrick |
-Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
+Session 4     | nmap                    | keiichi              | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 3**  |**Topic**             |**Instructor**           |**Materials**
@@ -94,11 +95,10 @@ Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN 
 Session 1     | Network Infrastructure  | bhumika                 | [3-1-1 securing network](3-1-1.securing-network.pdf)
 Session 2     | anomaly and firewalls   |                  |
 |             | - anomaly      		|  bhumika                    | [3-2-1 anomaly](3-2-1.anomaly.pdf)
-|             | - fierwalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
-Session 3     | DNS & DNS Security      | keiichi              |
-|             | - DNS                   |                      | [3-3-1 DNS](3-3-1.dns.pdf)<br/>[3-3-1 DNS Lab](3-3-1.dns-lab.pdf)<br/>[3-3-1 WWW Lab](3-3-1.www-lab.pdf)
-|             | - DNS Security          |                      | [3-3-2 DNS Security](3-3-2.dns-security.pdf)<br/>[3-3-2 DNS Security Lab](3-3-2.dns-security-lab.pdf)
-Session 4     | nmap                    | keiichi              | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)
+|             | - firewalls      	|                      | [3-2-2 firewalls](3-2-2.firewalls.pdf)
+Session 3     | Cryptography Applications | patrick                |
+|             | - VPNs, IPsec, TLS       |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)
+Session 4     | OpenVPN & pfSense       | randy                | [2-4-1 OpenVPN lab](2-4-1.openvpn.pdf)
 |             |                         |                      |
 |             |                         |                      |
 **Day 4**  |**Topic**             |**Instructor**           |**Materials**
