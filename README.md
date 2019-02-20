@@ -97,11 +97,12 @@ t2’16 Infosec Conference in Helsinki.
 | Session 4     | Cryptography Applications                           | patrick             |                                                                                                          |
 |               | - VPNs, IPsec, TLS                                  |                     | [2-3-1 VPN IPsec TLS](2-3-1.vpn-tls.pdf)                                                                 |
 |               | OpenVPN & pfSense                                   | randy               | [3-4-2-openvpn-lab](3-4-2-openvpn-lab.pdf)                                                                   |
-|               |                                                     |                     |                                                                                                          |
+Session 5    | IDS                                                 |                     |                                                                                                          |
+|               | - IDS pragmatics - snort                            | cristel             | [4-1-1.ids](4-1-1.ids.pdf)|               |                                                     |                     |                                                                                                          |
 | **Day 4**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | IDS                                                 |                     |                                                                                                          |
-|               | - IDS pragmatics - snort                            | cristel             | [4-1-1.ids](4-1-1.ids.pdf)<br />[4-1-1.ids Hands-on](4-1-1.ids-lab.pdf)                                  |
+|               | - IDS pragmatics - snort                            | cristel             | [4-1-1.ids Hands-on](4-1-1.ids-lab.pdf)                                  |
 | Session 2     | Protecting Hosts from Net                           | bhumika             |                                                                                                          |
 |               | - clients                                           |                     | [4-2-1 Hosts](4-2-1.client.pdf)                                                                          |
 | Session 3     | Communities and cooperation                         | tashi               | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
@@ -114,9 +115,7 @@ t2’16 Infosec Conference in Helsinki.
 |               |                                                     |                     |                                                                                                          |
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
-| Session 1     | Inter-Host Protocols                                |                     |                                                                                                          |
-|               | - sftp, ...                                         | randy               | [4-5-1 sftp & scp](4-4-4.scp+sftp.pdf)                                                                   |
-|               | - Covert Channels, TOR, Steganography               | cristel             | [5-1-2 Covert Channels](5-1-2.Covert-Channels.pdf)                                                       |  
+| Session 1            | - Covert Channels, TOR, Steganography               | cristel             | [5-1-2 Covert Channels](5-1-2.Covert-Channels.pdf)                                                       |  
 | Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
 | Session 3     | RPKI lab                                            | patrick             |                                                                                                          |
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
