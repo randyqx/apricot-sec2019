@@ -109,14 +109,13 @@ t2’16 Infosec Conference in Helsinki.
 |               | - Safe Mail Practices                               | randy               | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)                                                                 |
 |               | - Safe Browsing Practices                           | randy               | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)                                                         |
 |               | - File & Disk Encryption                            | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)                                                   |
-|               | scp and sftp                                        | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)                                                                 |
 |               | DNS Rate Limiting                                   | randy               | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)                                                      |
 |               | workshop setup                                      | keiichi             | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)               |
 |               |                                                     |                     |                                                                                                          |
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Inter-Host Protocols                                |                     |                                                                                                          |
-|               | - sftp, ...                                         | randy               | [4-5-1 sftp & scp](4-5-1.scp+sftp.pdf)                                                                   |
+|               | - sftp, ...                                         | randy               | [4-5-1 sftp & scp](4-4-4.scp+sftp.pdf)                                                                    |
 |               | - Covert Channels, TOR, Steganography               | cristel             | [5-1-2 Covert Channels](5-1-2.Covert-Channels.pdf)                                                       |
 | Session 2     | Inter-Network Cooperation                           | maz                 |                                                                                                          |
 |               | - Communities and Cooperation                       |                     | [5-2-1 Security Communities](5-2-1.cooperation.pdf)                                                      |
@@ -131,6 +130,6 @@ t2’16 Infosec Conference in Helsinki.
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Virtual Box & pfSense                               | randy               | [6-1-1 Install VirtualBox & pfSense](6-1-1.vbox-pfsense.pdf)                                             |
 | Session 2     | Configure OpenVPN                                   | randy               | [6-1-2 Configure OpenVPN Server](6-1-2.openvpn-server.pdf)                                               
-|
+
 
 
