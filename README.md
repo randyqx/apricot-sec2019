@@ -89,7 +89,7 @@ t2’16 Infosec Conference in Helsinki.
 | Session 3 & 4 | PGP signing party                                   | patrick             | [2-3-1 PGP Key signing party lab](2-3-1.lab-pgp-party.pdf)                                               |
 |               |                                                     |                     |                                                                                                          |
 | **Day 3**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
-| Session 1     | Network Infrastructure                              | bhumika             | [3-1-1 securing network](Securing_infrastructure_Network.pdf)                                                     |
+| Session 1     | Network Infrastructure                              | bhumika             | [3-1-1 securing network](Securing_infrastructure_Network.pdf)                                            |
 | Session 2     | nmap                                                | keiichi             | [3-4-1 scanning](3-4-1.scanning.pdf)<br />[3-4-1 scanning Lab](3-4-1.scanning-lab.pdf)                   |
 | Session 3     | anomaly and firewalls                               |                     |                                                                                                          |
 |               | - anomaly                                           | bhumika             | [3-2-1 anomaly](3-2-1.anomaly.pdf)                                                                       |
@@ -102,9 +102,9 @@ t2’16 Infosec Conference in Helsinki.
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | IDS                                                 |                     |                                                                                                          |
 |               | - IDS pragmatics - snort                            | cristel             | [4-1-1.ids](4-1-1.ids.pdf)<br />[4-1-1.ids Hands-on](4-1-1.ids-lab.pdf)                                  |
-| Session 2     | Protecting Hosts from Net                           | maz                 |                                                                                                          |
+| Session 2     | Protecting Hosts from Net                           | bhumika             |                                                                                                          |
 |               | - clients                                           |                     | [4-2-1 Hosts](4-2-1.client.pdf)                                                                          |
-| Session 3     | Communities and cooperation                         | maz                 | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
+| Session 3     | Communities and cooperation                         | tashi               | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
 | Session 4     | Safer Mail and Browsing                             |                     |                                                                                                          |
 |               | - Safe Mail Practices                               | randy               | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)                                                                 |
 |               | - Safe Browsing Practices                           | randy               | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)                                                         |
@@ -115,13 +115,11 @@ t2’16 Infosec Conference in Helsinki.
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Inter-Host Protocols                                |                     |                                                                                                          |
-|               | - sftp, ...                                         | randy               | [4-5-1 sftp & scp](4-4-4.scp+sftp.pdf)                                                                    |
-|               | - Covert Channels, TOR, Steganography               | cristel             | [5-1-2 Covert Channels](5-1-2.Covert-Channels.pdf)                                                       |
-| Session 2     | Inter-Network Cooperation                           | maz                 |                                                                                                          |
-|               | - Communities and Cooperation                       |                     | [5-2-1 Security Communities](5-2-1.cooperation.pdf)                                                      |
-| Session 3 & 4 | Dessert                                             | randy               |                                                                                                          |
-|               | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
-|               | RPKI lab                                                        | patrick              | |
+|               | - sftp, ...                                         | randy               | [4-5-1 sftp & scp](4-4-4.scp+sftp.pdf)                                                                   |
+|               | - Covert Channels, TOR, Steganography               | cristel             | [5-1-2 Covert Channels](5-1-2.Covert-Channels.pdf)                                                       |  
+| Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
+| Session 3     | RPKI lab                                            | patrick             |                                                                                                          |
+| Session 4 | Dessert                                                 | randy               |                                                                                                          |
 |               | Telco vs Internet & Complexity                      | randy               | [Complexity](6-6-6.complexity.pdf)                                                                       |
 |               | Critical Infrastructure and SW Eng                  | randy               | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)                                |
 |               |                                                     |                     |                                                                                                          |
