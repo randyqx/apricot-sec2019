@@ -40,7 +40,6 @@ t2’16 Infosec Conference in Helsinki.
 
 ## Agenda
 
-=======
 | Day/Session   | Topic                                               | Instructor          | Material                                                                                                 |
 |:--------------|:----------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------------------------------|
 |               |                                                     |                     |                                                                                                          |
@@ -131,6 +130,7 @@ t2’16 Infosec Conference in Helsinki.
 | **Day 6**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Virtual Box & pfSense                               | randy               | [6-1-1 Install VirtualBox & pfSense](6-1-1.vbox-pfsense.pdf)                                             |
-| Session 2     | Configure OpenVPN                                   | randy               | [6-1-2 Configure OpenVPN Server](6-1-2.openvpn-server.pdf)                                               |
+| Session 2     | Configure OpenVPN                                   | randy               | [6-1-2 Configure OpenVPN Server](6-1-2.openvpn-server.pdf)                                               
+|
 |               |                                                     |                     |                                                                                                          |
 
