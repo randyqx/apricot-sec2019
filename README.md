@@ -112,7 +112,6 @@ Session 4     | Safer Mail and Browsing |                     |
 |             | - Safe Mail Practices   | randy                | [4-4-1 Safer Mail](4-4-1.safer-mail.pdf)
 |             | - Safe Browsing Practices | randy              | [4-4-2 Safer browsing](4-4-2.safer-browsing.pdf)
 |             | - File & Disk Encryption | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)
-|             | scp and sftp             | randy               | [4-4-4 scp and sftp](4-4-4.scp+sftp.pdf)
 |             | DNS Rate Limiting     | randy                | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)
 workshop setup|                         | keiichi                   | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)
 |             |                         |                      |
@@ -125,6 +124,7 @@ Session 2     | Inter-Network Cooperation | maz                |
 |             | - Communities and Cooperation |                | [5-2-1 Security Communities](5-2-1.cooperation.pdf)
 Session 3 & 4 | Dessert                    | randy                |
 |             | Protecting Routing Protocols | randy           | [Protecting Routing Protocols](160219.routing-protocols.pdf)
+|             | RPKI lab                                    | patrick |
 |             | Telco vs Internet & Complexity | randy         | [Complexity](6-6-6.complexity.pdf)
 |             | Critical Infrastructure and SW Eng | randy     | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)
 |             |                         |                      |
