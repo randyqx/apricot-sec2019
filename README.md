@@ -124,7 +124,6 @@ t2’16 Infosec Conference in Helsinki.
 | Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
 | Session 3     | RPKI lab                                            | patrick             |                                                                                                          |
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
-                                       |
 |               | Critical Infrastructure and SW Eng                  | randy               | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)                                |
 |               |                                                     |                     |                                                                                                          |
 |               |                                                     |                     |                                                                                                          |
