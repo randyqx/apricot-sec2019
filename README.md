@@ -123,6 +123,6 @@ t2’16 Infosec Conference in Helsinki.
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Communities and cooperation                         | tashi               | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
-| Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
+| Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](5-2-2.routing-protocols.pdf)                                             |
 | Session 3     | RPKI lab                                            | patrick             |                                                                                                          |
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
