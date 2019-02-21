@@ -119,7 +119,8 @@ t2’16 Infosec Conference in Helsinki.
 |               | workshop setup                                      | keiichi             | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)               |
 |               | Telco vs Internet & Complexity                      | randy               | [Telco vs Internet & Complexity](4-4-6.complexity.pdf)                                |               |                                                     |                     |                                                                                                          |
 |               | Complexity and Critical Infrastructure    | randy               | [Complexity and Critical Infrastructure](4-4-7.cii-complex.pdf)
-|               |                                           | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
+|               |
+| **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Communities and cooperation                         | tashi               | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
 | Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
