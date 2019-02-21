@@ -126,7 +126,6 @@ t2’16 Infosec Conference in Helsinki.
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
 |               | Critical Infrastructure and SW Eng                  | randy               | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)                                |
 |               |                                                     |                     |                                                                                                          |
-|               |                                                     |                     |                                                                                                          |
 | **Day 6**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Virtual Box & pfSense                               | randy               | [6-1-1 Install VirtualBox & pfSense](6-1-1.vbox-pfsense.pdf)                                             |
