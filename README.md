@@ -117,19 +117,12 @@ t2’16 Infosec Conference in Helsinki.
 |               | - File & Disk Encryption                            | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)                                                   |
 |               | DNS Rate Limiting                                   | randy               | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)                                                      |
 |               | workshop setup                                      | keiichi             | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)               |
-|               | Telco vs Internet & Complexity                      | randy               | [Complexity](4-4-6.complexity.pdf)                                |               |                                                     |                     |                                                                                                          |
+|               | Telco vs Internet & Complexity                      | randy               | [Telco vs Internet & Complexity](4-4-6.complexity.pdf)                                |               |                                                     |                     |                                                                                                          |
+|               | Complexity and Critical Infrastructure    | randy               | [Complexity and Critical Infrastructure](4-4-7.cii-complex.pdf)
+|               |
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Communities and cooperation                         | tashi               | [4-3-1 cooperation](4-3-1.cooperation.pdf)                                                               |
-| Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](160219.routing-protocols.pdf)                                             |
+| Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](5-2-2.routing-protocols.pdf)                                             |
 | Session 3     | RPKI lab                                            | patrick             |                                                                                                          |
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
-|               | Critical Infrastructure and SW Eng                  | randy               | [Critical Infrastructure and Software Engineering](6-6-6.dagstuhl-CI.pdf)                                |
-|               |                                                     |                     |                                                                                                          |
-| **Day 6**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
-|               |                                                     |                     |                                                                                                          |
-| Session 1     | Virtual Box & pfSense                               | randy               | [6-1-1 Install VirtualBox & pfSense](6-1-1.vbox-pfsense.pdf)                                             |
-| Session 2     | Configure OpenVPN                                   | randy               | [6-1-2 Configure OpenVPN Server](6-1-2.openvpn-server.pdf)                                               
-
-
-
