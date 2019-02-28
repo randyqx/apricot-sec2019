@@ -31,6 +31,7 @@
 ## READ THIS
 
 [You have around 20 minutes to contain a Russian APT attack](https://www.zdnet.com/article/you-have-around-20-minutes-to-contain-a-russian-apt-attack/)
+Note that they do not include NSA, GCHQ, Mossad, ... :)
 
 ## Tools
 
@@ -88,6 +89,7 @@ t2’16 Infosec Conference in Helsinki.
 | Session 4     | Cryptography Applications                           |                     |                                                                                                          |
 |               | - ssh                                               | cristel             | [2-1-1 SSH](2-1-1.ssh.pdf)                                                                               |
 |               | - ssh lab                                           | keiichi             | [2-1-2 SSH Lab](2-1-2.ssh-lab.pdf)<br /> [2-1-2 SSH Lab 2](2-1-2.ssh-lab-2.pdf)                          |
+|               |                                                     |                     |                                                                                                          |
 | **Day 2**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Wireshark                                           | cristel             | [2-2-1 wireshark](2-2-1.Wireshark.pdf)                                                                   |
@@ -96,6 +98,7 @@ t2’16 Infosec Conference in Helsinki.
 |               | - DNS                                               | cristel<br/>keiichi | [3-3-1 DNS](3-3-1.dns.pdf)<br/>[3-3-1 DNS Lab](3-3-1.dns-lab.pdf)<br/>[3-3-1 WWW Lab](3-3-1.www-lab.pdf) |
 |               | - DNS Security                                      | patrick<br/>keiichi | [3-3-2 DNS Security](3-3-2.dns-security.pdf)<br/>[3-3-2 DNS Security Lab](3-3-2.dns-security-lab.pdf)    |
 | Session 3 & 4 | PGP signing party                                   | patrick             | [2-3-1 PGP Key signing party lab](2-3-1.lab-pgp-party.pdf)                                               |
+|               | OpenVPN                                             | randy               | [2-4-1 OpenVPN](2-4-1.openvpn.pdf)                                                                       |
 |               |                                                     |                     |                                                                                                          |
 | **Day 3**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 | Session 1     | Network Infrastructure                              | bhumika             | [3-1-1 securing network](Securing_infrastructure_Network.pdf)                                            |
@@ -108,6 +111,7 @@ t2’16 Infosec Conference in Helsinki.
 |               | OpenVPN & pfSense                                   | randy               | [3-4-2-openvpn-lab](3-4-2-openvpn-lab.pdf)                                                               |
 | Session 5     | IDS                                                 |                     |                                                                                                          |
 |               | - IDS pragmatics - snort                            | cristel             | [4-1-1.ids](4-1-1.ids.pdf)                                                                               |
+|               |                                                     |                     |                                                                                                          |
 | **Day 4**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | IDS                                                 |                     |                                                                                                          |
@@ -122,12 +126,13 @@ t2’16 Infosec Conference in Helsinki.
 |               | - File & Disk Encryption                            | randy               | [4-4-3 File & Disk Encryption](4-4-3.file-encrypt.pdf)                                                   |
 |               | DNS Rate Limiting                                   | randy               | [4-4-5 DNS Rate Limiting](4-4-5.dns-rate-limit.pdf)                                                      |
 |               | workshop setup                                      | keiichi             | [workshop setup](workshop-setup.pdf)<br/>[how to build the testbed](handson-env-setup.pdf)               |
-|               | Telco vs Internet & Complexity                      | randy               | [Telco vs Internet & Complexity](4-4-6.complexity.pdf)                                |               |                                                     |                     |                                                                                                          |
-|               | Complexity and Critical Infrastructure    | randy               | [Complexity and Critical Infrastructure](4-4-7.cii-complex.pdf)
-|               |
+|               | Telco vs Internet & Complexity                      | randy               | [Telco vs Internet & Complexity](4-4-6.complexity.pdf) 	 					       |
+|               | Complexity and Critical Infrastructure    	      | randy               | [Complexity and Critical Infrastructure](4-4-7.cii-complex.pdf)					       |
+|               | 	     	 	  			      |			    | 		      	       										       |
 | **Day 5**     | **Topic**                                           | **Instructor**      | **Materials**                                                                                            |
 |               |                                                     |                     |                                                                                                          |
 | Session 1     | Communities and cooperation                         | tashi               | [5-2-1 cooperation](5-2-1.cooperation.pdf)                                                               |
 | Session 2     | Protecting Routing Protocols                        | randy               | [Protecting Routing Protocols](5-2-2.routing-protocols.pdf)                                              |
 | Session 3     | RPKI lab                                            | patrick             | [RPKI origin validation lab](5-2-2.RPKI-Lab.pdf)                                                         |
 | Session 4 | Dessert                                                 | randy               |                                                                                                          |
+|               | 	     	 	  			      |			    | 		      	       										       |
